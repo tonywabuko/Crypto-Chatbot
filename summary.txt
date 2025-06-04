@@ -1,0 +1,1 @@
+CryptoBuddy mimics basic AI decision-making using rule-based logic. It processes user queries and matches them with predefined cryptocurrency data to offer advice. By evaluating both profitability and sustainability, it guides beginner investors toward smarter, eco-friendly choices — all without requiring advanced machine learning tools.
